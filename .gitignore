@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+prd.txt
+docker-compose.yml

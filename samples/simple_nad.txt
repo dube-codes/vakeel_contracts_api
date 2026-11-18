@@ -1,0 +1,62 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Non-Disclosure Agreement ("Agreement") is made on 18 November 2026, between:
+
+Party 1 (Disclosing Party): Name: Rahul Sharma Company: TechNova Solutions Pvt. Ltd. Address: 101, Business Park, Andheri East, Mumbai, Maharashtra, India - 400069 Email: rahul.sharma@example.com
+
+Party 2 (Receiving Party): Name: Amit Verma Company: DigitalWave Technologies Pvt. Ltd. Address: 202, IT Tower, Hinjewadi, Pune, Maharashtra, India - 411057 Email: amit.verma@example.com
+
+PURPOSE
+
+The parties agree to share confidential information for software development, business collaboration, and technology integration.
+
+CONFIDENTIAL INFORMATION
+
+Confidential information includes:
+
+Business plans and strategies.
+Financial records and reports.
+Customer information and databases.
+Software source code and technical documentation.
+Product designs and trade secrets.
+CONFIDENTIALITY OBLIGATIONS
+
+The Receiving Party agrees to:
+
+Keep all confidential information private.
+Not disclose information to third parties.
+Use information only for the agreed business purpose.
+Prevent unauthorized access or disclosure.
+EXCLUSIONS
+
+Confidential information does not include publicly available information, independently developed information, or information lawfully obtained from third parties.
+
+DURATION
+
+This Agreement shall remain effective for 2 years from the signing date.
+
+RETURN OF INFORMATION
+
+The Receiving Party shall return or permanently delete confidential information upon request.
+
+NO TRANSFER OF RIGHTS
+
+No intellectual property rights are transferred under this Agreement.
+
+BREACH OF AGREEMENT
+
+Unauthorized disclosure may result in legal action and liability for damages.
+
+GOVERNING LAW
+
+This Agreement shall be governed by the laws of India. Courts in Mumbai, Maharashtra, shall have jurisdiction.
+
+SIGNATURES
+
+Party 1 (Disclosing Party)
+
+Name: Rahul Sharma Signature: Rahul Sharma Date: 18 November 2026
+
+Party 2 (Receiving Party)
+
+Name: Amit Verma Signature: Amit Verma Date: 18 November 2026
