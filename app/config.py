@@ -9,4 +9,4 @@ ALLOWED_EXTENSIONS = [".pdf", ".txt"]
 MAX_FILE_SIZE_MB = 10
 UPLOAD_DIR = "uploads"
 
-GEMINI_API_KEY = os.getenv("GOOGLE_AI_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
